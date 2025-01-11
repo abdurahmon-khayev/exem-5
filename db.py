@@ -6,7 +6,7 @@ from utils import Response, hash_password
 db_info = {
     'host': 'localhost',
     'user': 'postgres',
-    'password': 'acorotD7472',
+    'password': '123',
     'database': 'postgres',
     'port': 5432
 }
